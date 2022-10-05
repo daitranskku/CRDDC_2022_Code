@@ -18,7 +18,7 @@ Download [train weights](https://o365skku-my.sharepoint.com/:f:/g/personal/daitr
 ### MMDet
 Norway, with its high-resolution rectangular image size, works well with VFNet. Using [inference_norway](./mmdet_based/inference_norway.ipynb) to visualize and prepare for submission. 
 ### Yolov5
-Other countries with low-resolution images and square image sizes work well with Yolov5. Using [inference_all](.yolov5_based/inference_all.ipynb) to inference other countries and ensemble for overall countries submission.
+Other countries with low-resolution images and square image sizes work well with Yolov5. Using [inference_all](./yolov5_based/inference_all.ipynb) to inference other countries and ensemble for overall countries submission.
 
 ### 4. Ensemble and submission
 We can adjust the hyper-parameter for ensemble_boxes in the inference files to improve accuracy.  
