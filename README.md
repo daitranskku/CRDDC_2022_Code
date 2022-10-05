@@ -13,7 +13,7 @@ Clone [Yolov5](https://github.com/ultralytics/yolov5), follow tutorial for insta
 
 ## 3. Inference
 ### Trained weights
-Download [train weights](https://o365skku-my.sharepoint.com/:f:/g/personal/daitran_o365_skku_edu/EtLUrPZsX_FCoaO6G6yOJ-QB2r7G0dxPhowcfiB6pfcOjw?e=pytn0f)
+Download [train weights](https://o365skku-my.sharepoint.com/:f:/g/personal/daitran_o365_skku_edu/EtLUrPZsX_FCoaO6G6yOJ-QB2r7G0dxPhowcfiB6pfcOjw?e=pytn0f). PW: crddc2022.  
 
 ### MMDet
 Norway, with its high-resolution rectangular image size, works well with VFNet. Using [inference_norway](./mmdet_based/inference_norway.ipynb) to visualize and prepare for submission. 
